@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Bigger, More Modern Animated Typing Header -->
   <a href="https://github.com/kalman77">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Nir!+%F0%9F%91%8B;Senior-Level+Full-Stack+Engineer;Backend+Architecture+Aficionado;Embedded+Systems+%26+R%26D+Junkie;I+turn+coffee+into+code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Nir!+%F0%9F%91%8B;Mid-Level+Full-Stack+Engineer;Backend+Architecture+Aficionado;Embedded+Systems+%26+R%26D+Junkie;I+turn+coffee+into+code!" alt="Typing SVG" />
   </a>
   <br>
   <i>"I would tell you a UDP joke, but you might not get it."</i> 😆
